@@ -16,7 +16,7 @@ The type of standards that are promoted by AgroConnect are:
 
 
 
-Visit the [members only area]([AgroConnect · GitHub](https://github.com/AgroconnectNL?view_as=member)) to  view our standard documentation.
+Visit the [members only area](https://github.com/AgroconnectNL?view_as=member) to  view our standard documentation.
 
 Not registered yet? To get access to the members-only area, please contact info@agroconnect.nl
 
