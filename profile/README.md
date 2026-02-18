@@ -1,14 +1,10 @@
 # AgroConnect Public Github repository
 
-AgroConnect promotes eBusiness in agriculture. The members of the AgroConnect association are companies and organisations that trade goods, services, products and produce with farmers. This includes input providers, agricultural cooperatives, the food processing industry, solution providers, advisory services, accountant offices, governmental organisations, etc.
+AgroConnect promotes eBusiness in agriculture. The members of the AgroConnect association are companies and organisations that trade goods, services, products and produce with farmers. This includes input providers, agricultural cooperatives, the food processing industry, solution providers, advisory services, accountant offices, governmental organisations, etc. AgroConnect is a non-profit organisation.
 
-A special group of stakeholders are the providers of farm management information systems (FMIS providers). The FMIS is for the farmer the pivot point for data exchange.
+A special group of stakeholders are the providers of farm management information systems (FMIS providers). The FMIS is for the farmer the pivot point for data exchange. All these companies and organisations share a common goal and that is to enable easy data exchange in the agricultural supply chain between all parties involved.
 
-All these companies and organisations share a common goal and that is to enable easy data exchange in the agricultural supply chain between all parties involved.
-
-
-
-AgroConnect members that comply to AgroConnect standards are active in the maintenance working groups on their own account. AgroConnect is a non-profit organisation with a ‘lean and mean’ staff.
+AgroConnect members that comply to AgroConnect standards are active in the maintenance working groups on their own account. 
 
 The type of standards that are promoted by AgroConnect are:
 
@@ -20,6 +16,10 @@ The type of standards that are promoted by AgroConnect are:
 
 
 
-To get access to the members-only area please contact info@agroconnect.nl
+Visit the [members only area]([AgroConnect · GitHub](https://github.com/AgroconnectNL?view_as=member)) to  view our standard documentation.
+
+Not registered yet? To get access to the members-only area, please contact info@agroconnect.nl
+
+
 
 More info on www.agroconnect.nl
