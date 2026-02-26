@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Agroconnect
+## AgroConnect
 
 AgroConnect bevordert eBusiness in de landbouw. De vereiniging is een overlegplatform voor het maken van afspraken over datauitwisseling in de Nederlandse agrifood sector.
 
@@ -30,6 +30,8 @@ De typen standaarden die door AgroConnect worden bevorderd zijn onder andere:
 - standaardprotocollen voor gegevensuitwisseling  
 
 ## Github repositories
+
+De volgende repositories zijn beschikbaar:
 
 | Beheerder               | Standaarden          | Github-repository                                                                            |
 | :---------------------- | -------------------- | -------------------------------------------------------------------------------------------- |
