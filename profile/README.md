@@ -31,6 +31,8 @@ De typen standaarden die door AgroConnect worden bevorderd zijn onder andere:
 
 ## Github repositories
 
+De volgende repositories zijn beschikbaar:
+
 | Beheerder               | Standaarden          | Github-repository                                                                            |
 | :---------------------- | -------------------- | -------------------------------------------------------------------------------------------- |
 | AgroConnect             | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) |
