@@ -1,4 +1,15 @@
-# AgroConnect Public Github repository
+# Welcome to AgroConnect on Github
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+👀 Contribution guidelines - how do team members dive in?
+👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
+🍪 Fun facts - what is your team's favorite snack?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
 
 AgroConnect promotes eBusiness in agriculture. The members of the AgroConnect association are companies and organisations that trade goods, services, products and produce with farmers. This includes input providers, agricultural cooperatives, the food processing industry, solution providers, advisory services, accountant offices, governmental organisations, etc. AgroConnect is a non-profit organisation.
 
@@ -14,7 +25,22 @@ The type of standards that are promoted by AgroConnect are:
 - all type of standard code lists, e.g. for crop types, soil types, animal types, etc.
 - standard protocols for data exchange
 
-Visit the [members only area](https://github.com/AgroconnectNL?view_as=member) to  view our standard documentation.
+Access to the Product group repositories is limited to Product Group Members. To become a Product Group member, please contact info@agroconnect.nl
+
+| Owner                     | Standards            | Github repository                                                                            |
+| :------------------------ | -------------------- | -------------------------------------------------------------------------------------------- |
+| AgroConnect               | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) |
+| AgroConnect               | Codelists            | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) |
+| Product group Cultivation | eCrop                | :file_folder: [eCrop Repository](https://github.com/AgroconnectNL/eCrop)                     |
+| Product group Poultry     | ePoultry             | (under construction)                                                                         |
+| Product group Pork        | ePigs                | (under construction)                                                                         |
+| Product group Bovine      | eDairy               | :file_folder: [eDairy Repository](https://github.com/AgroConnect-Dairy/Home)                 |
+| Product group Transaction |                      | (under construction)                                                                         |
+| Product group Analysis    |                      | (under construction)                                                                         |
+
+Here you can find an overview of all of our :file_folder: [AgroConnect Repositories](https://github.com/orgs/AgroconnectNL/repositories)
+
+
 
 Not registered yet? To get access to the members-only area, please contact info@agroconnect.nl
 
