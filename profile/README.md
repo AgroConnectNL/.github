@@ -21,13 +21,6 @@ De leden van de vereniging AgroConnect zijn bedrijven en organisaties die goeder
 
 Leden van AgroConnect die de AgroConnect-standaarden implementeren binnen hun organisatie zijn op eigen titel actief in de productgroepen.
 
-De typen standaarden die door AgroConnect worden bevorderd zijn onder andere:
-
-- standaarddatamodellen
-- standaardinterfacedefinities (EDI-berichten, API’s) voor gegevensuitwisseling
-- standaarden voor identificatie van bedrijven, personen, percelen, dieren en partijen
-- standaard codelijsten, bijvoorbeeld voor gewastypen, bodemtypes, diercategorieën, enzovoort
-- standaardprotocollen voor gegevensuitwisseling
 
 ## Github repositories
 
