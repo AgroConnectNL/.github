@@ -1,5 +1,7 @@
 # Welcome to AgroConnect on GitHub (AgroConnectNL)
 
+[Ga naar de Nederlandse versie](#welkom-bij-agroconnect-op-github-agroconnectnl)
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -45,6 +47,8 @@ Further information can be found on our [website](https://www.agroconnect.nl/).
 ---
 
 # Welkom bij AgroConnect op GitHub (AgroConnectNL)
+
+[Go to the English version](#welcome-to-agroconnect-on-github-agroconnectnl)
 
 ## AgroConnect
 
