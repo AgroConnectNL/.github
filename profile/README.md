@@ -27,16 +27,16 @@ Members of AgroConnect who implement AgroConnect standards within their organisa
 
 The following repositories are available:
 
-| Administrator | Standards | GitHub repository |
-| :------------ | --------- | ---------------- |
-| AgroConnect | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) |
-| AgroConnect | Code lists | (under construction) |
-| Productgroep Teelt | eCrop | :file_folder: [eCrop Repository](https://github.com/AgroconnectNL/eCrop) |
-| Productgroep Pluimvee | ePoultry | (under construction) |
-| Productgroep Varken | ePigs | (under construction) |
-| Productgroep Rund | eDairy | :file_folder: [eDairy Repository](https://github.com/AgroConnect-Dairy/Home) |
-| Productgroep Transactie | | (under construction) |
-| Productgroep Analyse | | (under construction) |
+| Administrator | Standards | GitHub repository | Publication |
+| :------------ | --------- | ---------------- | ----------- |
+| AgroConnect | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) | |
+| AgroConnect | Code lists | (under construction) | |
+| Productgroep Teelt | eCrop | :file_folder: [eCrop Repository](https://github.com/AgroconnectNL/eCrop) | [eCrop](https://agroconnectnl.github.io/eCrop) |
+| Productgroep Pluimvee | ePoultry | (under construction) | |
+| Productgroep Varken | ePigs | (under construction) | |
+| Productgroep Rund | eDairy | :file_folder: [eDairy Repository](https://github.com/AgroConnect-Dairy/Home) | |
+| Productgroep Transactie | | (under construction) | |
+| Productgroep Analyse | | (under construction) | |
 
 Our repositories are accessible via :file_folder: [AgroConnect Repositories](https://github.com/orgs/AgroconnectNL/repositories)
 
@@ -64,16 +64,16 @@ Leden van AgroConnect die de AgroConnect-standaarden implementeren binnen hun or
 
 De volgende repositories zijn beschikbaar:
 
-| Beheerder | Standaarden | GitHub-repository |
-| :-------- | ---------- | ---------------- |
-| AgroConnect | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) |
-| AgroConnect | Codelijsten | (under construction) |
-| Productgroep Teelt | eCrop | :file_folder: [eCrop Repository](https://github.com/AgroconnectNL/eCrop) |
-| Productgroep Pluimvee | ePoultry | (under construction) |
-| Productgroep Varken | ePigs | (under construction) |
-| Productgroep Rund | eDairy | :file_folder: [eDairy Repository](https://github.com/AgroConnect-Dairy/Home) |
-| Productgroep Transactie | | (under construction) |
-| Productgroep Analyse | | (under construction) |
+| Beheerder | Standaarden | GitHub-repository | Publicatie |
+| :-------- | ---------- | ---------------- | ----------- |
+| AgroConnect | AGRI API Style Guide | :file_folder: [API Style Guide Repository](https://github.com/AgroconnectNL/API-Style-Guide) | |
+| AgroConnect | Codelijsten | (under construction) | |
+| Productgroep Teelt | eCrop | :file_folder: [eCrop Repository](https://github.com/AgroconnectNL/eCrop) | [eCrop](https://agroconnectnl.github.io/eCrop) |
+| Productgroep Pluimvee | ePoultry | (under construction) | |
+| Productgroep Varken | ePigs | (under construction) | |
+| Productgroep Rund | eDairy | :file_folder: [eDairy Repository](https://github.com/AgroConnect-Dairy/Home) | |
+| Productgroep Transactie | | (under construction) | |
+| Productgroep Analyse | | (under construction) | |
 
 Onze repositories zijn toegankelijk via :file_folder: [AgroConnect Repositories](https://github.com/orgs/AgroconnectNL/repositories)
 
